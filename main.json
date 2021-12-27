@@ -109,7 +109,7 @@
                 {
                  "name":"exitUrl",
                  "type":"string",
-                 "value":"world:\/\/lobby"
+                 "value":"world:\/\/lobby\/solarpunk.json#start_fsfe"
                 }],
          "type":"tilelayer",
          "visible":true,
